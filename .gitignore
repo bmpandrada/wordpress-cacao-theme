@@ -1,0 +1,16 @@
+# WordPress
+wp-content/uploads/
+wp-content/cache/
+wp-content/upgrade/
+wp-content/backups/
+
+# Composer / Node
+vendor/
+node_modules/
+
+# Env / system
+.env
+*.log
+.DS_Store
+.idea
+.vscode
